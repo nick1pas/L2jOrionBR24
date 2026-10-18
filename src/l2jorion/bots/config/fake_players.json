@@ -1,0 +1,18 @@
+{
+  "defaultCount": 100,
+  "maxCount": 100,
+  "tickIntervalMs": 1000,
+  "chatMessages": [
+    "Hello everyone!",
+    "Anyone wants to party?",
+    "Selling rare items!",
+    "Where is the boss?",
+    "Looking for a team.",
+    "/dance"
+  ],
+  "preset": {
+    "namePattern": "Fake%03d",
+    "level": 1,
+    "behavior": "default"
+  }
+}
